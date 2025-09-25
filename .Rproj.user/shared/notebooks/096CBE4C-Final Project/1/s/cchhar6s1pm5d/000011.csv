@@ -1,0 +1,23 @@
+"0","library(dplyr)"
+"2","
+Attaching package: ‘dplyr’
+
+"
+"2","The following object is masked from ‘package:car’:
+
+    recode
+
+"
+"2","The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+"
+"2","The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+"
+"0","Psych_means <- personality %>% group_by(Detachment, Sex) %>% summarize(mean_psych = mean(Psychoticism))"
+"2","`summarise()` has grouped output by 'Detachment'. You can override using the `.groups` argument."
+"0","head(Psych_means)"

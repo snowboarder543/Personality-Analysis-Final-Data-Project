@@ -1,0 +1,3 @@
+"0","psychoticism_anova_means <- personality_cont %>% group_by(Sex, Music) %>% summarize(mean_psych_anova = mean(Psychoticism))"
+"2","`summarise()` has grouped output by 'Sex'. You can override using the `.groups` argument."
+"0","psychoticism_anova_means"

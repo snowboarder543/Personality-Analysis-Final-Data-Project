@@ -1,0 +1,1 @@
+"0","ggplot(personality, aes(y = Salary, x = Study_Level)) + geom_jitter() +ggtitle(""Effects of Educational Achievement on Salary"") + xlab(""Education Level"")"

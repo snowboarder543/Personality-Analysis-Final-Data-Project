@@ -1,0 +1,1 @@
+"0","ggplot(personality, aes(y = Psychoticism, x = Detachment, color = Sex)) + geom_point(data = Psych_means, aes(y = mean_psych, x = Detachment, color = Sex)) + geom_line(data = Psych_means, aes(y = mean_psych, x = Detachment, color = Sex)) + ggtitle(""Interaction Plot of Psychoticism Against Detachment Grouped by Gender"")"

@@ -1,0 +1,2 @@
+"0","ggplot(personality, aes(y = Psychoticism, x = Mood_Disorder, color = Sex)) + geom_boxplot() + ggtitle(""Psychoticism Scores Grouped by Presence/Absence of Mood Disorder & Gender"") + xlab(""Mood Disorder"")"
+"0",""

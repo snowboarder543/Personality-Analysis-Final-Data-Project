@@ -1,0 +1,3 @@
+"0","library(broom)"
+"0","Psych_Tidy <- tidy(Psych_Detach_Int)"
+"0","Psych_Tidy"

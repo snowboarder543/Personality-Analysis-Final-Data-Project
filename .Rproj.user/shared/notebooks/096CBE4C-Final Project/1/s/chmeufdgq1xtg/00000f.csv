@@ -1,0 +1,3 @@
+"0","library(car)"
+"0","symbox(~ Psychoticism, data = personality)"
+"2","Warning: start set to 0.07"

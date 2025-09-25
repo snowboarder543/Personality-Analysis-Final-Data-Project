@@ -1,0 +1,1 @@
+"0","ggplot(personality, aes(x = log(Detachment))) + geom_histogram(binwidth = .5) + ggtitle(""Normalized (Log) histogram of Detachment"")"

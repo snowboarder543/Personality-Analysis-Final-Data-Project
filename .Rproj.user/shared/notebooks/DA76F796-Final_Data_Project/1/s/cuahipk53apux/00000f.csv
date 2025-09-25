@@ -1,0 +1,1 @@
+"0","ggplot(personality, aes(y = log(Psychoticism), x = log(Detachment), color = Sex)) + geom_point() + ggtitle(""Log Pschoticism scores against Log Detachment scores and Gender"")"

@@ -1,0 +1,1 @@
+"0","ggplot(personality_cont, aes(y = Psychoticism, x = Sex, color = Music)) + geom_point(data = psychoticism_anova_means, aes(y = mean_psych_anova, x = Sex, color = Music)) + geom_line(data = psychoticism_anova_means, aes(y = mean_psych_anova, x = Sex, group = Music)) + ggtitle(""Interaction Plot of Psychoticism Against Gender and Music"")"

@@ -1,0 +1,1 @@
+"0","ggplot(personality, aes(y = Instability.Neuroticism, x = Negative_Affect)) + geom_point() + ggtitle(""Level of Negative Affect on Severity of Neuroticism"") + ylab(""Neuroticism"") + xlab(""Negative Affect"")"

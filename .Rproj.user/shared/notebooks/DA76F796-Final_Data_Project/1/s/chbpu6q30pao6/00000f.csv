@@ -1,0 +1,1 @@
+"0","ggplot(personality, aes(x = Psychoticism)) + geom_histogram(binwidth = .5) + ggtitle(""Histogram Displaying Skewed data for Psychoticism scores"") "

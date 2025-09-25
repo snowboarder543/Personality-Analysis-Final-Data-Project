@@ -1,0 +1,1 @@
+"0","ggplot(personality, aes(y = Psychoticism, x = Instability.Neuroticism, color = Sex)) + geom_point() + ggtitle(""Effects of Neuroticism and Psychoticism"") + xlab(""Neuroticism"")"

@@ -1,0 +1,1 @@
+"0","ggplot(personality, aes(x = Detachment)) + geom_histogram(binwidth = .5) + ggtitle(""Histogram of Detachment Scores"")"

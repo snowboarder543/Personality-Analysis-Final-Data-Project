@@ -1,0 +1,1 @@
+"0","ggplot(personality, aes(y = Salary, x = Psychoticism, color = Sex)) + geom_jitter() + ggtitle(""Salary Against Gender and Psychoticism"")"

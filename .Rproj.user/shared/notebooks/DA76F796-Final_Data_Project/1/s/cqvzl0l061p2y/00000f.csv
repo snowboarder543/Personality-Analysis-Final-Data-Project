@@ -1,0 +1,3 @@
+"0","personality2 <- data.frame(personality %>% mutate(Psychoticism = Psychoticism + 1, detachment = Detachment + 1, Sex = Sex))"
+"0",""
+"0","Psychoticism_LM <- lm(log(Psychoticism) ~ log(detachment) + Sex, data = personality2)"

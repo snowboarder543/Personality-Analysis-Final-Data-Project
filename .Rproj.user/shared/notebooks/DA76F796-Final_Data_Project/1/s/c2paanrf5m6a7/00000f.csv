@@ -1,0 +1,1 @@
+"0","ggplot(personality, aes(y = Psychoticism, x = Mood_Disorder)) + geom_boxplot() + ggtitle(""Effects of Mood Disorder on level of Psychoticism"") + xlab(""Mood Disorder"")"
